@@ -1,0 +1,12 @@
+E:\AATICK\31-12-2014\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.exe.config
+E:\AATICK\31-12-2014\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.exe
+E:\AATICK\31-12-2014\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.pdb
+E:\AATICK\31-12-2014\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.csprojResolveAssemblyReference.cache
+E:\AATICK\31-12-2014\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.SuperShopUI.resources
+E:\AATICK\31-12-2014\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.Properties.Resources.resources
+E:\AATICK\31-12-2014\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.csproj.GenerateResource.Cache
+E:\AATICK\31-12-2014\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.exe
+E:\AATICK\31-12-2014\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.pdb
+E:\FTFL DHAKA\16th Day\SuperShopApp\SuperShopApp\bin\Debug\SuperShopApp.exe.config
+E:\FTFL DHAKA\16th Day\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.exe
+E:\FTFL DHAKA\16th Day\SuperShopApp\SuperShopApp\obj\Debug\SuperShopApp.pdb

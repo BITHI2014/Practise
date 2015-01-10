@@ -1,0 +1,24 @@
+E:\AATICK\07-01-2014\EmployeeStoreApp\EmployeeStoreApp\bin\Debug\EmployeeStoreApp.exe.config
+E:\AATICK\07-01-2014\EmployeeStoreApp\EmployeeStoreApp\bin\Debug\EmployeeStoreApp.exe
+E:\AATICK\07-01-2014\EmployeeStoreApp\EmployeeStoreApp\bin\Debug\EmployeeStoreApp.pdb
+E:\AATICK\07-01-2014\EmployeeStoreApp\EmployeeStoreApp\obj\Debug\EmployeeStoreApp.csprojResolveAssemblyReference.cache
+E:\AATICK\07-01-2014\EmployeeStoreApp\EmployeeStoreApp\obj\Debug\EmployeeStoreApp.UI.AddDesignationUI.resources
+E:\AATICK\07-01-2014\EmployeeStoreApp\EmployeeStoreApp\obj\Debug\EmployeeStoreApp.UI.EmployeeActivityUI.resources
+E:\AATICK\07-01-2014\EmployeeStoreApp\EmployeeStoreApp\obj\Debug\EmployeeStoreApp.UI.EmployeeInfoUI.resources
+E:\AATICK\07-01-2014\EmployeeStoreApp\EmployeeStoreApp\obj\Debug\EmployeeStoreApp.Properties.Resources.resources
+E:\AATICK\07-01-2014\EmployeeStoreApp\EmployeeStoreApp\obj\Debug\EmployeeStoreApp.UI.SearchOrModifyEmployeeUI.resources
+E:\AATICK\07-01-2014\EmployeeStoreApp\EmployeeStoreApp\obj\Debug\EmployeeStoreApp.csproj.GenerateResource.Cache
+E:\AATICK\07-01-2014\EmployeeStoreApp\EmployeeStoreApp\obj\Debug\EmployeeStoreApp.exe
+E:\AATICK\07-01-2014\EmployeeStoreApp\EmployeeStoreApp\obj\Debug\EmployeeStoreApp.pdb
+E:\FTFL DHAKA\19th Day\EmployeeStoreApp\EmployeeStoreApp\bin\Debug\EmployeeStoreApp.exe.config
+E:\FTFL DHAKA\19th Day\EmployeeStoreApp\EmployeeStoreApp\obj\Debug\EmployeeStoreApp.exe
+E:\FTFL DHAKA\19th Day\EmployeeStoreApp\EmployeeStoreApp\obj\Debug\EmployeeStoreApp.pdb
+E:\FTFL DHAKA\19th Day\EmployeeStoreApp\EmployeeStoreApp\bin\Debug\EmployeeStoreApp.exe
+E:\FTFL DHAKA\19th Day\EmployeeStoreApp\EmployeeStoreApp\bin\Debug\EmployeeStoreApp.pdb
+E:\FTFL DHAKA\19th Day\EmployeeStoreApp\EmployeeStoreApp\obj\Debug\EmployeeStoreApp.csprojResolveAssemblyReference.cache
+E:\FTFL DHAKA\19th Day\EmployeeStoreApp\EmployeeStoreApp\obj\Debug\EmployeeStoreApp.UI.AddDesignationUI.resources
+E:\FTFL DHAKA\19th Day\EmployeeStoreApp\EmployeeStoreApp\obj\Debug\EmployeeStoreApp.UI.EmployeeActivityUI.resources
+E:\FTFL DHAKA\19th Day\EmployeeStoreApp\EmployeeStoreApp\obj\Debug\EmployeeStoreApp.UI.EmployeeInfoUI.resources
+E:\FTFL DHAKA\19th Day\EmployeeStoreApp\EmployeeStoreApp\obj\Debug\EmployeeStoreApp.Properties.Resources.resources
+E:\FTFL DHAKA\19th Day\EmployeeStoreApp\EmployeeStoreApp\obj\Debug\EmployeeStoreApp.UI.SearchOrModifyEmployeeUI.resources
+E:\FTFL DHAKA\19th Day\EmployeeStoreApp\EmployeeStoreApp\obj\Debug\EmployeeStoreApp.csproj.GenerateResource.Cache

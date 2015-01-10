@@ -1,0 +1,12 @@
+E:\FTFL\BCC\26-12-2014\ResultCalculatorApp\ResultCalculatorApp\bin\Debug\ResultCalculatorApp.exe.config
+E:\FTFL\BCC\26-12-2014\ResultCalculatorApp\ResultCalculatorApp\bin\Debug\ResultCalculatorApp.exe
+E:\FTFL\BCC\26-12-2014\ResultCalculatorApp\ResultCalculatorApp\bin\Debug\ResultCalculatorApp.pdb
+E:\FTFL\BCC\26-12-2014\ResultCalculatorApp\ResultCalculatorApp\obj\Debug\ResultCalculatorApp.csprojResolveAssemblyReference.cache
+E:\FTFL\BCC\26-12-2014\ResultCalculatorApp\ResultCalculatorApp\obj\Debug\ResultCalculatorApp.ResultCalculatorUI.resources
+E:\FTFL\BCC\26-12-2014\ResultCalculatorApp\ResultCalculatorApp\obj\Debug\ResultCalculatorApp.Properties.Resources.resources
+E:\FTFL\BCC\26-12-2014\ResultCalculatorApp\ResultCalculatorApp\obj\Debug\ResultCalculatorApp.csproj.GenerateResource.Cache
+E:\FTFL\BCC\26-12-2014\ResultCalculatorApp\ResultCalculatorApp\obj\Debug\ResultCalculatorApp.exe
+E:\FTFL\BCC\26-12-2014\ResultCalculatorApp\ResultCalculatorApp\obj\Debug\ResultCalculatorApp.pdb
+E:\FTFL DHAKA\15th Day\ResultCalculatorApp\ResultCalculatorApp\bin\Debug\ResultCalculatorApp.exe.config
+E:\FTFL DHAKA\15th Day\ResultCalculatorApp\ResultCalculatorApp\obj\Debug\ResultCalculatorApp.exe
+E:\FTFL DHAKA\15th Day\ResultCalculatorApp\ResultCalculatorApp\obj\Debug\ResultCalculatorApp.pdb
